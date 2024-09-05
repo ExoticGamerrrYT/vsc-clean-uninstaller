@@ -5,7 +5,9 @@
 Visual Studio Code's default uninstaller does not delete user settings and extensions, so I did this little script.
 
 ## How to use
-> 
+
+> ***I am not responsible for any loss and/or problems.***
+
 > _Please remember that this only works for Windows._
 
 1. Download the latest version from the releases page.
