@@ -10,7 +10,7 @@ Visual Studio Code's default uninstaller does not delete user settings and exten
 
 > _Please remember that this only works for Windows._
 
-1. Download the latest version from the releases page.
+1. Download the latest version from the [releases page](https://github.com/ExoticGamerrrYT/vsc-clean-uninstaller/releases).
 2. Execute it.
    > **If any security pop-up is shown, ignore it; if you don't trust the program, just don't use it.**
 
