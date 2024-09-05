@@ -27,6 +27,12 @@ If you can add a new feature or fix something, you can contribute according to t
 > _Windows only._
 
 ```pwsh
+# Clone the repo
+git clone https://github.com/ExoticGamerrrYT/vsc-clean-uninstaller.git
+
+# Change directory
+cd .\vsc-clean-uninstaller\
+
 # Make a virtual environment
 py -m venv .venv
 
